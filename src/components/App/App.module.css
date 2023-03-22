@@ -1,0 +1,12 @@
+.wrapper {
+    font-size: 25px;
+    color: #010101;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.title {
+    text-align: center;
+}
